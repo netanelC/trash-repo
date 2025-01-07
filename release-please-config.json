@@ -2,5 +2,7 @@
     "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
     "pull-request-title-pattern": "avi",
     "pull-request-header": "bla",
-    "pull-request-footer": "co"
+    "pull-request-footer": "co",
+    "release-type": "go"
+    
 }
